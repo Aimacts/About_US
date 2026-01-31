@@ -2,7 +2,6 @@
 Hi 👋, We are AIMACTS
 Building AI-powered solutions, websites & automation
 
-  📧 contact@aimacts.in
 
 ---
 
